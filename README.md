@@ -46,11 +46,6 @@ Je suis étudiant en informatique à l’IUT et je partage ici mes projets réal
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
 
-  <img src="https://img.shields.io/badge/PC%20SOFT-Suite%204GL-yellow" alt="PC SOFT" height="24" style="vertical-align:middle; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/WinDev-Applications%20Windows-blue" alt="WinDev" height="24" style="vertical-align:middle; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/WebDev-Applications%20Web-green" alt="WebDev" height="24" style="vertical-align:middle; margin-right:8px;" />
-  <img src="https://img.shields.io/badge/WinDev%20Mobile-Applications%20Mobiles-orange" alt="WinDev Mobile" height="24" style="vertical-align:middle; margin-right:8px;" />
-
 </p>
 
 ---
