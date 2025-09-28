@@ -47,11 +47,7 @@ Je suis étudiant en informatique à l’IUT et je partage ici mes projets réal
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/UML_logo.svg" alt="UML" width="40" height="40"/>
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenSSH_logo.png" alt="SSH" width="40" height="40"/>
-  ![SSL](https://img.shields.io/badge/SSL-Security-green?logo=letsencrypt)
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache2" width="40" height="40"/>
- ![Scrum](https://img.shields.io/badge/SCRUM-Agile-blue?logo=jira)
- ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-OOAD-blueviolet)
- ![SSL](https://img.shields.io/badge/SSL-Security-green?logo=letsencrypt)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache2" width="40" height="40"/>
 
 </p>
 
