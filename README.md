@@ -45,11 +45,11 @@ Je suis étudiant en informatique à l’IUT et je partage ici mes projets réal
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
-<!-- PC SOFT + WinDev -->
+  <!-- PC SOFT + WinDev -->
 ![PC SOFT](https://img.shields.io/badge/PC%20SOFT-Suite%204GL-yellow)
 ![WinDev](https://img.shields.io/badge/WinDev-Applications%20Windows-blue)
 ![WebDev](https://img.shields.io/badge/WebDev-Applications%20Web-green)
-![WinDev%20Mobile](https://img.shields.io/badge/WinDev%20Mobile-Applications%20Mobiles-orange)
+![WinDev Mobile](https://img.shields.io/badge/WinDev%20Mobile-Applications%20Mobiles-orange)
 
 </p>
 
