@@ -41,10 +41,11 @@ Je suis étudiant en informatique à l’IUT et je partage ici mes projets réal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache2" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Modelio_logo.png" alt="Modelio" width="40" height="40"/>
 
 </p>
 
