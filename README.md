@@ -9,8 +9,8 @@ Je suis étudiant en informatique à l’IUT et je partage ici mes projets réal
 - 🎓 Étudiant en BUT Informatique  
 - 💻 Passionné par la programmation orientée objet et le développement logiciel  
 - 🤝 Expériences de projets en **équipe (Java, C, Ada)**  
-- 🌱 Actuellement en train d’apprendre : algorithmique avancée, POO, gestion de projet
-
+- 🌱 Actuellement en apprentissage : algorithmique avancée, programmation orientée objet et gestion de projet collaboratif
+  
 ---
 
 ## 📊 Mes statistiques GitHub
