@@ -15,9 +15,9 @@ Je suis étudiant en informatique à l’IUT et je partage ici mes projets réal
 
 ## 📊 Mes statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im31200&show_icons=true&theme=radical" alt="Stats GitHub" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im31200&layout=compact&theme=radical" alt="Langages les plus utilisés" width="45%" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=im31200&show_icons=true&theme=radical" alt="Stats GitHub" height="200"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im31200&layout=compact&theme=radical" alt="Langages les plus utilisés" height="200"/>
 </p>
 
 ---
