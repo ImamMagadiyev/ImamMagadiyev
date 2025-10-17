@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Bonjour+je+m%27appelle+Imam+Magadiyev;Hello+my+name+is+Imam+Magadiyev)
+![Typing SVG]
+(https://readme-typing-svg.demolab.com/?size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Bonjour+je+m%27appelle+Imam+Magadiyev;Hello+my+name+is+Imam+Magadiyev)
 
 Bienvenue sur mon profil GitHub !  
 Je suis étudiant en informatique à l’IUT et je partage ici mes projets réalisés en Java, C, Ada et bien d’autres.
