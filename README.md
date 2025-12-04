@@ -16,7 +16,7 @@ Je suis étudiant en informatique à l’IUT et je partage ici mes projets réal
 ## 📊 Mes statistiques GitHub
 
 <p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImamMagadiyev&theme=github" alt="Stats GitHub" height="200"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ImamMagadiyev&show_icons=true&theme=radical" alt="Stats GitHub" height="200"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=radical" alt="Langages les plus utilisés" height="200"/>
 </p>
 
