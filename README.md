@@ -46,7 +46,6 @@ Je suis étudiant en informatique à l’IUT et je partage ici mes projets réal
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
 
 </p>
 
