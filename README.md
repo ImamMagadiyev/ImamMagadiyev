@@ -1,56 +1,79 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&duration=4000&pause=1000&color=1E90FF&right=true&vCenter=true&width=600&lines=Bonjour+je+m%27appelle+Imam+Magadiyev;Hello+my+name+is+Imam+Magadiyev)
+![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&duration=4000&pause=1000&color=1E90FF&vCenter=true&width=700&lines=Étudiant+BUT+Informatique+%7C+IUT+Toulouse+III;Recherche+alternance+Dev+%2F+Data+%2F+Admin+SI+2026;Bonjour+!+Je+m'appelle+Imam+Magadiyev)
 
-Bienvenue sur mon profil GitHub !  
-Je suis étudiant en informatique à l’IUT et je partage ici mes projets réalisés en Java, C, Ada et bien d’autres.
+## 👋 À propos de moi
+
+Étudiant en **2ᵉ année de BUT Informatique** (parcours AGED – Administration, Gestion et Exploitation des Données) à l'IUT de Toulouse III.  
+Je recherche une **alternance à partir de septembre 2026** en Développement, Data/IA ou Administration SI.
+
+- 🎓 BUT Informatique – IUT Toulouse III (3ᵉ année en alternance dès sept. 2026)
+- 🤝 Habitué au travail en équipe sur des projets de 4 à 6 mois
+- 📊 Appétence forte pour la **Data, l'IA et l'automatisation** (Power BI, KNIME, n8n, RAG)
+- 🌐 Trilingue : Français · Anglais · Russe
 
 ---
 
-## 🚀 À propos de moi
-- 🎓 Étudiant en BUT Informatique  
-- 💻 Passionné par la programmation orientée objet et le développement logiciel  
-- 🤝 Expériences de projets en **équipe (Java, C, Ada)**  
-- 🌱 Actuellement en apprentissage : algorithmique avancée, programmation orientée objet et gestion de projet collaboratif
-  
+## 🚀 Projets réalisés
+
+### 🏠 Application de gestion immobilière *(oct. 2024 – jan. 2026)*
+> Projet tuteuré – groupe de 5 étudiants – IUT Toulouse
+
+- Application **Java** de gestion locative (locataires, charges, contrats)
+- Architecture **MVC** + accès aux données via **DAO**
+- Base de données **Oracle DB** avec requêtes **SQL / PL/SQL**
+- Modélisation **UML** et Modèle Conceptuel de Données (MCD)
+
 ---
 
-## 📊 Mes statistiques GitHub
+### 🤖 Data & IA – Aide à la décision (Open Food Facts) *(mars – avr. 2026)*
+> Projet tuteuré – groupe de 5 étudiants – IUT Toulouse
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ImamMagadiyev&show_icons=true&theme=radical" alt="Stats GitHub" height="200"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=radical" alt="Langages les plus utilisés" height="200"/>
+- Nettoyage et analyse de **données massives (1 Go)** sous **KNIME** et **Python**
+- Dashboards **Power BI** pour la visualisation d'indicateurs nutritionnels
+- Agent IA avec **n8n** utilisant le **RAG** pour enrichissement et explication de données
+- Modèle prédictif du **Nutri-Score**
+- Application mobile pilotant les workflows n8n et le chatbot RAG
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImamMagadiyev&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=radical" height="200"/>
 </p>
 
 ---
 
-## 🛠️ Technologies et outils  
+## 🛠️ Compétences techniques
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
-</p>
+**Langages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data & IA**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![KNIME](https://img.shields.io/badge/KNIME-FEE000?style=flat&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
+
+**Systèmes & Réseaux**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+**Outils**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
 
 ## 📫 Me contacter
-- ✉️ Email : imam31100@gmail.com
-- 🌍 GitHub : [ImamMagadiyev](https://github.com/ImamMagadiyev)
+
+[![Email](https://img.shields.io/badge/Email-imam31100@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imam31100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imam_Magadiyev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imammagadiyev-886845169/)
