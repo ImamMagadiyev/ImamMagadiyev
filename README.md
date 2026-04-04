@@ -39,7 +39,7 @@ Je recherche une **alternance à partir de septembre 2026** en Développement, D
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ImamMagadiyev&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=radical&cache_seconds=1800" height="200"/>
 </p>
 
 ---
