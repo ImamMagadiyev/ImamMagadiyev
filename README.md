@@ -72,5 +72,5 @@ Je recherche une **alternance à partir de septembre 2026** en Développement, D
     
 ## 📫 Me contacter
 
-[![Email](https://img.shields.io/badge/Email-imam31100@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imam31100@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Imam_Magadiyev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imammagadiyev-886845169/)
+[![Email] (https://img.shields.io/badge/Email-imam31100@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imam31100@gmail.com)
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-Imam_Magadiyev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imammagadiyev-886845169/)
