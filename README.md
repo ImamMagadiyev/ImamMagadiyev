@@ -38,7 +38,7 @@ Je recherche une **alternance à partir de septembre 2026** en Développement, D
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=radical&langs_count=8" height="200"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=radical&langs_count=8" height="200"/>
 </p>
 
 ---
