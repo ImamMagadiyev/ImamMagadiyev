@@ -73,11 +73,8 @@ en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
 Ouvert aux échanges sur la data, le développement ou une alternance en master 👇
 
 <p align="left">
-  <a href="mailto:imam31100@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48"/>
-  </a>
-  <a href="https://www.linkedin.com/in/imam-magadiyev-886845169">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
-  </a>
+  <a href="mailto:imam31100@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48"/></a>
+  <a href="https://www.linkedin.com/in/imam-magadiyev-886845169"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/></a>
 </p>
 
+📧 **imam31100@gmail.com**
