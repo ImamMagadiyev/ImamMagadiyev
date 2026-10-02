@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&duration=4000&pause=1000&color=1E90FF&vCenter=true&width=700&lines=Étudiant+BUT+Informatique+%7C+IUT+Toulouse+III;Alternant+Développeur+%2F+Data+%2F+chez+Diagamter;Bonjour+!+Je+m'appelle+Imam+Magadiyev)
+![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&duration=4000&pause=1000&color=1E90FF&vCenter=true&width=700&lines=Étudiant+BUT+Informatique+%7C+IUT+Toulouse+III;Alternant+Développeur+%2F+Data+chez+Diagamter;Bonjour+!+Je+m'appelle+Imam+Magadiyev)
 
 ## 👋 À propos de moi
 
