@@ -6,7 +6,7 @@
 en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
 
 - 💼 Développement d'une application cartographique web (Angular, Laravel, OpenStreetMap) et de tableaux de bord décisionnels (Power BI, Superset)
-- 🤝 Habitué au travail en équipe, à l'IUT comme en entreprise
+- 🤝 Travail en équipe à l'IUT (groupes de 2 à 6) et en entreprise, au sein d'une équipe informatique de 5 personnes
 - 📊 Appétence forte pour la **Data, l'IA et l'automatisation** (Power BI, KNIME, n8n, RAG)
 - 🌐 Trilingue : Français · Anglais · Russe
 - 🚀 Objectif : intégrer un **master en data / développement** en septembre 2027, idéalement en alternance
@@ -16,8 +16,8 @@ en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
 ## 🚀 Projets réalisés
 
 - 🗺️ **Application cartographique** – Alternance Diagamter · Angular, Laravel, MySQL, Redis
-- 📈 **Migration des tableaux de bord** – Stage Diagamter · Power BI, Superset, Docker
-- 🤖 **Data & IA – Open Food Facts** – Projet universitaire · KNIME, Python, Power BI, n8n
+- 📈 **Migration des tableaux de bord** – Stage Diagamter · Réseau de 110+ franchisés · Power BI, Superset, Docker
+- 🤖 **Data & IA – Open Food Facts** – Projet universitaire · 1 Go de données · KNIME, Python, Power BI, n8n
 - 🏠 **[Gestion immobilière](https://github.com/ImamMagadiyev/gestion-immobiliere)** – Projet universitaire · Java, Oracle
 - ⚽ **[GestionEquipe](https://github.com/ImamMagadiyev/GestionEquipe)** – Projet universitaire · PHP, MySQL
 
