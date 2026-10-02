@@ -65,6 +65,14 @@ en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
   <img src="https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge" alt="Apache Superset" height="40"/>
   <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" height="40"/>
   <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge" alt="Talend" height="40"/>
+
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/apachesuperset/20A6C9" alt="Apache Superset" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/talend/FF6D70" alt="Talend" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/knime/FDD800" alt="KNIME" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/openstreetmap/7EBC6F" alt="OpenStreetMap" width="40" height="40"/>
 </p>
 
 ---
