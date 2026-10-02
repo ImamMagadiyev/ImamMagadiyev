@@ -5,7 +5,7 @@
 Étudiant en **3ᵉ année de BUT Informatique** (parcours data) à l'IUT Paul Sabatier – Toulouse III,  
 en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
 
-- 💼 Développement d'une application cartographique web (Angular, Laravel, PostGIS) et de tableaux de bord décisionnels (Power BI, Superset)
+- 💼 Développement d'une application cartographique web (Angular, Laravel, OpenStreetMap) et de tableaux de bord décisionnels (Power BI, Superset)
 - 🤝 Habitué au travail en équipe, à l'IUT comme en entreprise
 - 📊 Appétence forte pour la **Data, l'IA et l'automatisation** (Power BI, KNIME, n8n, RAG)
 - 🌐 Trilingue : Français · Anglais · Russe
@@ -28,8 +28,8 @@ en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=radical&langs_count=8" height="200"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ImamMagadiyev&show_icons=true&theme=radical&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ImamMagadiyev&layout=compact&theme=tokyonight&langs_count=8" height="200"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ImamMagadiyev&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 ---
