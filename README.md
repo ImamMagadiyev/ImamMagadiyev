@@ -2,13 +2,14 @@
 
 ## 👋 À propos de moi
 
-Étudiant en **2ᵉ année de BUT Informatique** (parcours AGED – Administration, Gestion et Exploitation des Données) à l'IUT de Toulouse III.  
-Je recherche une **alternance à partir de septembre 2026** en Développement, Data/IA ou Administration SI.
+Étudiant en **3ᵉ année de BUT Informatique** (parcours data) à l'IUT Paul Sabatier – Toulouse III,  
+en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
 
-- 🎓 BUT Informatique – IUT Toulouse III (3ᵉ année en alternance dès sept. 2026)
-- 🤝 Habitué au travail en équipe sur des projets de 4 à 6 mois
+- 💼 Développement d'une application cartographique web (Angular, Laravel, PostGIS) et de tableaux de bord décisionnels (Power BI, Superset)
+- 🤝 Habitué au travail en équipe, à l'IUT comme en entreprise
 - 📊 Appétence forte pour la **Data, l'IA et l'automatisation** (Power BI, KNIME, n8n, RAG)
 - 🌐 Trilingue : Français · Anglais · Russe
+- 🚀 Objectif : intégrer un **master en data / développement** en septembre 2027, idéalement en alternance
 
 ---
 
