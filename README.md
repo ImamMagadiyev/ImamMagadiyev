@@ -67,6 +67,10 @@ en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" height="40"/>
   <img src="https://img.shields.io/badge/Windev-E4242A?style=for-the-badge&logoColor=white" alt="Windev" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge" alt="Apache Superset" height="40"/>
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" height="40"/>
+  <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge" alt="Talend" height="40"/>
 </p>
 
 ---
