@@ -15,24 +15,13 @@ en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
 
 ## 🚀 Projets réalisés
 
-### 🏠 Application de gestion immobilière *(oct. 2024 – jan. 2026)*
-> Projet tuteuré – groupe de 5 étudiants – IUT Toulouse
+- 🗺️ **Application cartographique** – Alternance Diagamter · Angular, Laravel, MySQL, Redis
+- 📈 **Migration des tableaux de bord** – Stage Diagamter · Power BI, Superset, Docker
+- 🤖 **Data & IA – Open Food Facts** – Projet universitaire · KNIME, Python, Power BI, n8n
+- 🏠 **[Gestion immobilière](https://github.com/ImamMagadiyev/gestion-immobiliere)** – Projet universitaire · Java, Oracle
+- ⚽ **[GestionEquipe](https://github.com/ImamMagadiyev/GestionEquipe)** – Projet universitaire · PHP, MySQL
 
-- Application **Java** de gestion locative (locataires, charges, contrats)
-- Architecture **MVC** + accès aux données via **DAO**
-- Base de données **Oracle DB** avec requêtes **SQL / PL/SQL**
-- Modélisation **UML** et Modèle Conceptuel de Données (MCD)
-
----
-
-### 🤖 Data & IA – Aide à la décision (Open Food Facts) *(mars – avr. 2026)*
-> Projet tuteuré – groupe de 5 étudiants – IUT Toulouse
-
-- Nettoyage et analyse de **données massives (1 Go)** sous **KNIME** et **Python**
-- Dashboards **Power BI** pour la visualisation d'indicateurs nutritionnels
-- Agent IA avec **n8n** utilisant le **RAG** pour enrichissement et explication de données
-- Modèle prédictif du **Nutri-Score**
-- Application mobile pilotant les workflows n8n et le chatbot RAG
+👉 **Détails, captures et compétences sur mon portfolio** : [lien à ajouter]
 
 ---
 
@@ -75,6 +64,7 @@ en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" height="40"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" height="40"/>
   <img src="https://img.shields.io/badge/Windev-E4242A?style=for-the-badge&logoColor=white" alt="Windev" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 </p>
 
 ---
