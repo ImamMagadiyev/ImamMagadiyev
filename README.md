@@ -74,10 +74,10 @@ Ouvert aux échanges sur la data, le développement ou une alternance en master 
 
 <p align="left">
   <a href="mailto:imam31100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48"/>
   </a>
   <a href="https://www.linkedin.com/in/imam-magadiyev-886845169">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
   </a>
 </p>
 
