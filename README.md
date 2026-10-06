@@ -21,7 +21,7 @@ en **alternance chez Diagamter (KOALYS)** en tant que **Développeur & Data**.
 - 🏠 **[Gestion immobilière](https://github.com/ImamMagadiyev/gestion-immobiliere)** – Projet universitaire · Java, Oracle
 - ⚽ **[GestionEquipe](https://github.com/ImamMagadiyev/GestionEquipe)** – Projet universitaire · PHP, MySQL
 
-👉 **Détails, captures et compétences sur mon portfolio** : [lien à ajouter]
+👉 **Détails, captures et compétences sur mon portfolio** : 
 
 ---
 
